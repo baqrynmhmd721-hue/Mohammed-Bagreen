@@ -1,19 +1,19 @@
-<h1 align="center">👋 مرحبًا، أنا محمد باقرين</h1>
+<h1 align="center">👋 Hi : Mohammed Bagreen </h1>
 <h3 align="center">مبرمج Flutter | Mobile Developer</h3>
 
 ---
 
 ### 🚀 عني
 - 💻 مطور تطبيقات باستخدام **Flutter & Dart**  
-- 📱 شغوف بإنشاء تطبيقات أندرويد و iOS بأداء عالي وتجربة مستخدم مميزة  
+- 📱 شغوف بإنشاء تطبيقات أندرويد  بأداء عالي وتجربة مستخدم مميزة  
 - 🌱 أتعلم دائمًا وأطور مهاراتي في **Mobile Development** و **Backend Integration**  
 - 🎯 هدفي: بناء تطبيقات عملية تخدم المستخدم وتضيف قيمة  
 
 ---
 
 ### 🛠️ المهارات والتقنيات
-- **Languages:** Dart, Java, Python  
-- **Frameworks:** Flutter, Firebase, Flask  
+- **Languages:** Dart, C#, Python  
+- **Frameworks:** Flutter 
 - **Tools:** Git, GitHub, Android Studio, VS Code  
 - **Databases:** SQLite, Firebase Firestore, MySQL  
 
@@ -31,9 +31,9 @@
 ---
 
 ### 📫 للتواصل معي
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your-email@example.com  
-- 🐦 [Twitter](https://twitter.com/)  
+- 💼 770942491 
+- 📧 Email: mohammed770942492@gmail.com
+  
 
 ---
 
